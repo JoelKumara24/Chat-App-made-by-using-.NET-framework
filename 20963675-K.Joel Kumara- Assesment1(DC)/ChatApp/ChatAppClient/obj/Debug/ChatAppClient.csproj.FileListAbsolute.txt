@@ -1,0 +1,190 @@
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatDataTier.dll
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatServer.exe
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatDataTier.pdb
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatServer.pdb
+C:\Users\joelk\source\repos\ChatAppClient\bin\Debug\ChatServer.exe.config
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\App.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.cache
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.lref
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\MainWindow.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.g.resources
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.Properties.Resources.resources
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.csproj.GenerateResource.cache
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.csproj.CopyComplete
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\ChatAppClient.pdb
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window2.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window2.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window3.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window3.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window4.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window4.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window5.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window5.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window6.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window7.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window8.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window6.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window7.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\Window8.baml
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\DMWindow.g.cs
+C:\Users\joelk\source\repos\ChatAppClient\obj\Debug\DMWindow.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\DMWindow.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window2.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window3.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window4.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window5.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window6.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window7.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window8.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\App.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.lref
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.dll
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatServer.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe.config
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\DMWindow.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\MainWindow.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window2.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window3.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window4.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window5.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window6.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window7.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\Window8.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.g.resources
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.Properties.Resources.resources
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.GenerateResource.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CopyComplete
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.dll
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.pdb
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.pdb
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe.config
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\DMWindow.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window2.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window3.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window4.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window5.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window6.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window7.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window8.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\App.g.cs
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.lref
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\DMWindow.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\MainWindow.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window2.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window3.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window4.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window5.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window6.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window7.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window8.baml
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.g.resources
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.Properties.Resources.resources
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.GenerateResource.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CopyComplete
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.dll
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatDataTier.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.pdb
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\bin\Debug\ChatServer.exe.config
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\DMWindow.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window2.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window3.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window4.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window5.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window6.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window7.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window8.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\App.g.cs
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.lref
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\DMWindow.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\MainWindow.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window2.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window3.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window4.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window5.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window6.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window7.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\Window8.baml
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.g.resources
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.Properties.Resources.resources
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.GenerateResource.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.csproj.CopyComplete
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\Thilina\Documents\curtin year 2\sem2\Distributed Computing(COMP3008)\2023\Assignment\ChatApp16\ChatApp15\ChatApp13\ChatAppClient\obj\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatDataTier.dll
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatServer.exe
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatDataTier.pdb
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatServer.pdb
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\bin\Debug\ChatServer.exe.config
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\DMWindow.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\MainWindow.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window2.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window3.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window4.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window5.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window6.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window7.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window8.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\App.g.cs
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.cache
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient_MarkupCompile.lref
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\DMWindow.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\MainWindow.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window2.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window3.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window4.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window5.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window6.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window7.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\Window8.baml
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.g.resources
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.Properties.Resources.resources
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.csproj.GenerateResource.cache
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.csproj.CopyComplete
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\Thilina\Desktop\joelDC\ChatApp\ChatAppClient\obj\Debug\ChatAppClient.pdb

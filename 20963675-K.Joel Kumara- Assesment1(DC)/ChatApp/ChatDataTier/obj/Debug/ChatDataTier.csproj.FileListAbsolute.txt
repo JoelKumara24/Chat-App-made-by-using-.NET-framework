@@ -1,0 +1,12 @@
+C:\Users\joelk\source\repos\ChatDataTier\bin\Debug\ChatDataTier.dll
+C:\Users\joelk\source\repos\ChatDataTier\bin\Debug\ChatDataTier.pdb
+C:\Users\joelk\source\repos\ChatDataTier\obj\Debug\ChatDataTier.csproj.AssemblyReference.cache
+C:\Users\joelk\source\repos\ChatDataTier\obj\Debug\ChatDataTier.csproj.CoreCompileInputs.cache
+C:\Users\joelk\source\repos\ChatDataTier\obj\Debug\ChatDataTier.dll
+C:\Users\joelk\source\repos\ChatDataTier\obj\Debug\ChatDataTier.pdb
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\bin\Debug\ChatDataTier.dll
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\bin\Debug\ChatDataTier.pdb
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\obj\Debug\ChatDataTier.csproj.AssemblyReference.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\obj\Debug\ChatDataTier.csproj.CoreCompileInputs.cache
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\obj\Debug\ChatDataTier.dll
+C:\Users\joelk\Downloads\ChatApp15\ChatApp13\ChatDataTier\obj\Debug\ChatDataTier.pdb
